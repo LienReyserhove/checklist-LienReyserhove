@@ -1,4 +1,4 @@
-# Checklist of non-native freshwater fishes in Flanders, Belgium
+# Checklist of non-native freshwater fishes
 
 ## Rationale
 
